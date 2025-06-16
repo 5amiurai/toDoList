@@ -1,6 +1,7 @@
-# ToDo App - React Native Assignment
+<<<<<<< HEAD
+# ToDo App - Mobile application development lab 2
 
-A simple React Native ToDo application built as part of a programming assignment. This app demonstrates component-based architecture by separating the ToDo list and form into individual components.
+This app demonstrates component-based architecture by separating the ToDo list and form into individual components.
 
 ## Features
 
@@ -46,13 +47,6 @@ todo-app/
 ✅ **Part 2**: Separated components into ToDoList.jsx and ToDoForm.jsx  
 ✅ **Part 3**: Imported and integrated separate components in index.tsx  
 
-## Installation and Setup
-
-1. Clone this repository
-2. Navigate to the project directory
-3. Install dependencies: `npm install`
-4. Run the application: `npm start`
-
 ## Technologies Used
 
 - React Native
@@ -61,5 +55,8 @@ todo-app/
 
 ## Author
 
-Student Assignment - React Native Development Course
+Mhd Sami Rizk - Mobile application development course
 
+=======
+# toDoList
+>>>>>>> 41f9c43036d860ef0550f1b477ba4f2b862e6946
